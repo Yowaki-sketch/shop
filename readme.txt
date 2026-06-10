@@ -2,4 +2,6 @@
 目前为空
 里面新加了一个PHP的index文件
 这是在dev分支中加的内容。看看反应
+我是卡卡卡卡kkajfakjfakjfal我是小A是个事B，我要搞冲突
 我没Pull估计会有冲突
+冲突解决
